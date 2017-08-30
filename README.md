@@ -4,9 +4,9 @@
 **Support Status: None available**
 
 ## Introduction
-**Welcome to Facial Recognition by Sarhad Salam and Alex Bogdan**
+**Welcome to Facial Recognition by Sarhad Salam, Alex Bogdan and Shashwat Panwar**
 
-The application is being developed by Sarhad Salam and Alex Bogdan. Presently we are using Java version "1.8.0_101" and opencv 3.10.
+The application is being developed by Sarhad Salam, Alex Bogdan and Shashwat Panwar. Presently we are using Java version "1.8.0_101" and opencv 3.10.
 
 Note: You do not need the .idea folder or CandyAI.iml as that is just IntellijIDE generated folder for developer support (as both os us use intellij, global settings help).g
 
